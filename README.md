@@ -6,3 +6,8 @@ A simple calculator app to learn layout and some basic string manipulation for a
 
 1. Basic android layout using LinearLayout
 2. Basic string manipulation in Kotlin
+
+## Screenshot
+
+App Main Activity
+![Main Activity](https://github.com/ryecoder/CalculatorApp/blob/main/app_sc_1.png?raw=true)
